@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EvrenBalik
 - 👀 I’m interested in E-Commerce
 - 🌱 I’m currently learning VueJs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on FrontEnd Projects
 - 📫 How to reach me From Linkedln link on my profile
 
 <!---
